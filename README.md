@@ -121,6 +121,8 @@ MIT License. See [LICENSE](LICENSE).
 
 ## Credits
 
+A human-and-AI project: Claudiu brought the idea and the truck, Claude wrote the code.
+
 - ESP32 Arduino core and TWAI driver by Espressif Systems
 - Adafruit SSD1306, GFX, ST7735 and ST7789 libraries
 - Based on [ESP32-S3-Speed-Advisor](https://github.com/Claudiu1975/ESP32-S3-Speed-Advisor)
